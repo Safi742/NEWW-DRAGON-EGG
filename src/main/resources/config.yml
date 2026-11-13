@@ -1,0 +1,9 @@
+# Radius used to count players and show the boss bar.
+range: 12.0
+# Visual animation refresh interval (ticks; 20 ticks = 1 second).
+update-interval-ticks: 5
+# Search duration after dragon death (seconds).
+egg-search-timeout-seconds: 30
+messages:
+  waiting: "§cThe egg is locked: §f%count% §cplayers nearby. Exactly 1 is required."
+  claimed: "§aYou claimed the Dragon Egg!"

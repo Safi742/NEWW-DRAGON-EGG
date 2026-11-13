@@ -1,0 +1,6 @@
+name: DragonEggSolo
+version: 0.1.0
+main: dev.chatgpt.dragoneggsolo.DragonEggSolo
+api-version: '26.3'
+description: Spawns a floating dragon egg that can only be claimed when exactly one player is nearby.
+author: ChatGPT
